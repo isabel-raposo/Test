@@ -1,5 +1,5 @@
 % This script creates the figures for paper xyz (doi: ...)
-% Charlotte Mock, Tübingen, March 2023
+% best group, Tübingen, March 2023
 
 
 load("data.m")
